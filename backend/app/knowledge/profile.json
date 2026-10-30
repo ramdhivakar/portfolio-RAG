@@ -1,0 +1,129 @@
+{
+  "profile": {
+    "name": "Ramdhivakar",
+    "professional_summary": "Computer Science graduate with experience across technical support, software development, cloud technologies, and business operations.",
+    "current_role": {
+      "company": "Concentrix",
+      "job_title": "Technical Solutions Engineer 2",
+      "start_date": "September 2025",
+      "domain": "Technical support for Symantec and Broadcom products",
+      "client_process": "TD SYNNEX"
+    }
+  },
+  "career_history": [
+    {
+      "company": "Cognizant",
+      "job_title": "Programmer Analyst Trainee",
+      "start_date": "January 2019",
+      "end_date": "March 2020",
+      "experience": [
+        "Supported international customers with migration from on-premises environments to Microsoft Azure."
+      ]
+    },
+    {
+      "company": "Ninjacart",
+      "job_title": "Operations Executive",
+      "start_date": "May 2020",
+      "end_date": "January 2021",
+      "experience": [
+        "Worked in business operations."
+      ]
+    },
+    {
+      "company": "Mindtree",
+      "job_title": "Senior Engineer",
+      "start_date": "August 2021",
+      "end_date": "August 2022",
+      "experience": [
+        "Worked on Java backend development."
+      ]
+    },
+    {
+      "company": "Aquera",
+      "job_title": "Member Technical Staff 2",
+      "start_date": "April 2024",
+      "end_date": "September 2024",
+      "experience": [
+        "Worked on frontend development using Angular.",
+        "Worked on an Identity and Access Management product."
+      ]
+    },
+    {
+      "company": "Concentrix",
+      "job_title": "Technical Solutions Engineer",
+      "start_date": "September 2025",
+      "end_date": null,
+      "experience": [
+        "Provides technical support for Symantec and Broadcom products in the TD SYNNEX process."
+      ]
+    }
+  ],
+  "technical_skills": {
+    "programming": [
+      "Java",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "frontend": [
+      "Angular",
+      "React"
+    ],
+    "cloud": [
+      "Microsoft Azure",
+      "AWS"
+    ],
+    "identity_and_access_management": [
+      "OAuth 2.0",
+      "OpenID Connect",
+      "SAML 2.0",
+      "JSON Web Tokens",
+      "Single Sign-On",
+      "Microsoft Entra ID"
+    ],
+    "security_products": [
+      "Symantec Endpoint Protection Manager",
+      "Symantec Endpoint Protection",
+      "Symantec Messaging Gateway",
+      "Symantec Email Security Cloud",
+      "Symantec Encryption Desktop"
+    ],
+    "testing_and_automation": [
+      "Selenium WebDriver",
+      "TestNG",
+      "JUnit",
+      "Postman",
+      "REST Assured",
+      "Playwright",
+      "Cypress"
+    ]
+  },
+  "projects": [
+    {
+      "name": "Tweak",
+      "category": "Internal enterprise support assistant",
+      "description": "A support workspace designed to help technical support engineers manage case information, create consistent customer communications, and use predefined templates.",
+      "technologies": [
+        "Python",
+        "FastAPI",
+        "React",
+        "Next.js",
+        "shadcn/ui"
+      ]
+    },
+    {
+      "name": "Infinora",
+      "category": "Bakery website",
+      "description": "A bakery website project built with a focus on a premium, minimal user interface.",
+      "technologies": [
+        "Next.js",
+        "Tailwind CSS"
+      ]
+    }
+  ],
+  "response_policy": {
+    "use_only_verified_profile_information": true,
+    "do_not_invent_personal_details": true,
+    "admit_when_information_is_missing": true
+  }
+}

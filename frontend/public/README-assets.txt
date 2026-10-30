@@ -1,0 +1,1 @@
+Place your real profile image here (for example: public/profile.jpg) and update the portrait area in app/page.tsx to use next/image. Add your approved resume as public/resume.pdf. Do not publish confidential employer/customer information.
